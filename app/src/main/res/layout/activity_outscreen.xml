@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:id="@+id/screenid"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+
+        <ImageView
+            android:id="@+id/img"
+            android:layout_gravity="center"
+            android:src="@drawable/thumbsup"
+            android:layout_width="250dp"
+            android:layout_marginTop="50dp"
+
+            android:layout_height="250dp"
+
+            />
+
+
+        <TextView
+            android:id="@+id/topText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="25dp"
+            android:layout_marginTop="40dp"
+            android:gravity="center"
+            android:layout_marginEnd="25dp"
+            android:fontFamily="@font/typographica"
+            android:text="Successfully Done!"
+            android:textColor="@android:color/white"
+            android:textSize="40sp"
+            />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+
+
+        android:gravity="center"
+
+
+        android:text="Wait for the Email Confirmation!"
+        android:textColor="@android:color/white"
+        android:textSize="15sp"
+        />
+
+
+
+
+</LinearLayout>
