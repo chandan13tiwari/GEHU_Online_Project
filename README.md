@@ -1,6 +1,6 @@
 # GEHU_Online_Project
 Android application for my College using Firebase and Payment Gateway Integration
-![](Screenshot_20210224_181616.jpg)
+![](sample img/1.jpeg)
 ![]()
 ![]()
 ![]()
