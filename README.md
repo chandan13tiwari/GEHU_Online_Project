@@ -1,6 +1,6 @@
 # GEHU_Online_Project
 Android application for my College using Firebase and Payment Gateway Integration
-![](sample img/1.jpeg)
+![](1.jpeg)
 ![]()
 ![]()
 ![]()
